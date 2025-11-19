@@ -17,6 +17,7 @@ Busco fortalecer minha base técnica construindo projetos simples, bem estrutura
 <div style="display: inline_block"><br>
 
 <img align="center" alt="C#" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="PHP" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 <img align="center" alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="JS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -61,7 +62,7 @@ Busco fortalecer minha base técnica construindo projetos simples, bem estrutura
 
 ## 📬 Contato
 
-**Email:** luizgustavofferreira2007@gmail.com_
+**Email:** luizgustavofferreira2007@gmail.com
 
 ---
 
